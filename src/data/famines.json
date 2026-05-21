@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bengal-1770",
+    "name": "Bengal famine of 1770",
+    "startYear": 1769,
+    "endYear": 1770,
+    "affectedStates": ["IN-WB", "IN-BR", "IN-OR"],
+    "severity": "catastrophic",
+    "mortalityBand": "~10 million (est.)",
+    "summary": "Severe scarcity in eastern Bengal after crop failure; early Company-era famine often linked to revenue extraction and disrupted grain markets."
+  },
+  {
+    "id": "madras-1783",
+    "name": "Madras/Bengal scarcity (1783–84)",
+    "startYear": 1783,
+    "endYear": 1784,
+    "affectedStates": ["IN-TN", "IN-AP", "IN-WB"],
+    "severity": "severe",
+    "mortalityBand": "Hundreds of thousands (est.)",
+    "summary": "Drought-related shortages in the Madras Presidency and parts of Bengal amid rising land revenue demands."
+  },
+  {
+    "id": "orissa-1866",
+    "name": "Orissa famine (1865–67)",
+    "startYear": 1865,
+    "endYear": 1867,
+    "affectedStates": ["IN-OR", "IN-BR"],
+    "severity": "severe",
+    "mortalityBand": "~1 million (est.)",
+    "summary": "Rice crop failures in Orissa and Bihar; relief was slow while grain continued to move toward export markets."
+  },
+  {
+    "id": "deccan-1877",
+    "name": "Great Famine (Deccan, 1876–78)",
+    "startYear": 1876,
+    "endYear": 1878,
+    "affectedStates": ["IN-MH", "IN-KA", "IN-TN", "IN-AP", "IN-RJ", "IN-OR", "IN-UP"],
+    "severity": "catastrophic",
+    "mortalityBand": "5–8 million (est.)",
+    "summary": "Widespread failure of rain-fed crops across the Deccan and beyond, intensified where cotton commercialization had expanded on marginal land."
+  },
+  {
+    "id": "india-1896",
+    "name": "Indian famine (1896–97)",
+    "startYear": 1896,
+    "endYear": 1897,
+    "affectedStates": [
+      "IN-UP", "IN-BR", "IN-MP", "IN-RJ", "IN-MH", "IN-AP", "IN-TN", "IN-KA",
+      "IN-OR", "IN-GJ", "IN-PB", "IN-HR", "IN-WB", "IN-CT"
+    ],
+    "severity": "severe",
+    "mortalityBand": "Millions (est.)",
+    "summary": "All-India drought cycle; export-oriented districts faced higher prices as local grain was drawn into global commodity circuits."
+  },
+  {
+    "id": "india-1899",
+    "name": "Indian famine (1899–1900)",
+    "startYear": 1899,
+    "endYear": 1900,
+    "affectedStates": [
+      "IN-UP", "IN-BR", "IN-MP", "IN-RJ", "IN-MH", "IN-AP", "IN-TN", "IN-KA",
+      "IN-OR", "IN-GJ", "IN-PB", "IN-WB", "IN-CT", "IN-AS"
+    ],
+    "severity": "severe",
+    "mortalityBand": "Millions (est.)",
+    "summary": "Second late-century scarcity wave; regions already shifting to cash crops saw sharp food-price spikes."
+  },
+  {
+    "id": "bengal-1943",
+    "name": "Bengal famine of 1943",
+    "startYear": 1943,
+    "endYear": 1943,
+    "affectedStates": ["IN-WB"],
+    "severity": "catastrophic",
+    "mortalityBand": "~3 million (est.)",
+    "summary": "Catastrophic food shortage in Bengal during WWII, amid jute and rice procurement policies and disrupted supply chains."
+  }
+]

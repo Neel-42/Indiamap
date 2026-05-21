@@ -1,0 +1,6 @@
+{
+  "_comment": "Anchor timelines are defined in regionalAnchors.ts (subsistence → cash crop by region). This file documents the schema for tooling.",
+  "schema": {
+    "anchors": ["year", "dominantCrop", "foodCropShare", "commercializationIndex", "cashCrop", "colonialNote"]
+  }
+}
